@@ -1,5 +1,5 @@
 # BreezySLAM-Windows
-Working version of C++ (BreezySLAM)[https://github.com/simondlevy/BreezySLAM] for Windows.
+Working version of C++ [BreezySLAM](https://github.com/simondlevy/BreezySLAM) for Windows.
 
 BreezySLAM
 ==========
